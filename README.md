@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Valir Goga
 
-<!--
-**Valirgoga/Valirgoga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend Developer · UI/UX Designer**
 
-Here are some ideas to get you started:
+I build fast, responsive and clean websites using modern web technologies.  
+Focused on writing clean code, creating smooth user experiences, and constantly improving my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+- **HTML · CSS · JavaScript**
+- Responsive Web Design · UI/UX
+- WordPress · WooCommerce
+- Git · GitHub · Figma · Canva
+
+---
+
+## 📌 Featured Projects
+- Portfolio Website  
+- Modern Landing Pages  
+- E-commerce (WooCommerce)  
+- Custom UI components & layouts  
+
+*(More projects coming soon…)*
+
+---
+
+## 📫 Contact
+- **Email:** valirgoga84@gmail.com  
+- **Website:** https://gogavalir.netlify.app  
+- **Linkedin:** https://www.linkedin.com/in/valir-g-04b10934a/
+
+---
+
+### ⚡ Always building. Always learning.
