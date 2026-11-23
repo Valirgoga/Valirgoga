@@ -1,33 +1,58 @@
-# 👋 Hi, I'm Valir Goga
+👋 Hi, I'm Valir Goga
 
-**Frontend Developer · UI/UX Designer**
+Frontend Developer | UI/UX Designer
 
-I build fast, responsive and clean websites using modern web technologies.  
-Focused on writing clean code, creating smooth user experiences, and constantly improving my skills.
+I create modern, responsive, and user-friendly websites with a strong focus on design, performance, and user experience.
 
+Passionate about technology, creativity, and building digital experiences that make an impact.
+
+
+
+🚀 What I Do
+
+Website Development
+
+UI/UX Design
+
+Responsive Web Design
+
+E-commerce Solutions
+
+Landing Page Design
+
+WordPress Development
+
+
+
+🛠️ Tools & Platforms
+
+WordPress & WooCommerce
+
+Figma
+
+Canva
+
+Git & GitHub
+
+Visual Studio Code
+
+💼 Featured Projects
+
+Personal Portfolio Website
+
+Modern Business Websites
+
+E-commerce Platforms
+
+Custom Landing Pages
+
+Responsive UI Designs
 ---
 
-## 🚀 Tech Stack
-- **HTML · CSS · JavaScript**
-- Responsive Web Design · UI/UX
-- WordPress · WooCommerce
-- Git · GitHub · Figma · Canva
-
----
-
-## 📌 Featured Projects
-- Portfolio Website  
-- Modern Landing Pages  
-- E-commerce (WooCommerce)  
-- Custom UI components & layouts  
-
-*(More projects coming soon…)*
-
----
 
 ## 📫 Contact
 - **Email:** valirgoga84@gmail.com  
-- **Website:** https://gogavalir.netlify.app  
+- **Website:** valirgoga.vercel.app 
 - **Linkedin:** https://www.linkedin.com/in/valir-g-04b10934a/
 
 ---
